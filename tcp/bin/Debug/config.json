@@ -1,0 +1,19 @@
+[
+    {
+        "ServerAddress": "127.0.0.1",
+        "ServerPort": 123
+    },
+    {
+        "ServerAddress": "127.0.0.2",
+        "ServerPort": 124
+    },
+	{
+        "ServerAddress": "127.0.0.3",
+        "ServerPort": 125
+    },
+	{
+        "ServerAddress": "127.0.0.9",
+        "ServerPort": 127
+    }
+	
+]
